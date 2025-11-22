@@ -1,5 +1,20 @@
 # Changelog
 
+## [25.74.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.73.0...v25.74.0) (2025-11-22)
+
+
+### Features
+
+* **add:** 281506 ([#10721](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10721)) ([b4a1112](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b4a1112a22add97a34efc44cdac917878e8d9dd0))
+* **add:** DOM-Z-105P_RGB, DOM-Z-105P_RGBW, DOM-Z-105P_WW/CW, DOM-Z-105P_DIMMER ([#10814](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10814)) ([cab4312](https://github.com/Koenkk/zigbee-herdsman-converters/commit/cab4312e9f0e5fb04cde4b4ab79c97a8e6f5bf3f))
+* **add:** TLSR82xx_2btn_remote ([#10816](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10816)) ([8e14d34](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8e14d34a1886726c3b6289136e548fb846632fe2))
+* SONOFF S60ZBTPF: expose `energy` https://github.com/Koenkk/zigbee2mqtt/issues/27452 ([8b15f36](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8b15f369e6e88bc2673a902111c81641ecaf1f48))
+
+
+### Bug Fixes
+
+* Tidy up ZYXH products ([#10818](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10818)) ([e274308](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e274308d1cb1654c48ec29f250e266a78aeb5a0f))
+
 ## [25.73.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.72.0...v25.73.0) (2025-11-21)
 
 
